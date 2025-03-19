@@ -122,12 +122,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!4 &86266487 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5297042261894673674, guid: ed9d61a9f6613044996e81235826dd03,
-    type: 3}
-  m_PrefabInstance: {fileID: 571025131}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &571025131
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -440,21 +434,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f21ea63d0acdf5b43ae585c6bd2146c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hourHand: {fileID: 86266487}
-  minuteHand: {fileID: 1852907310}
-  secondHand: {fileID: 1528047210}
---- !u!4 &1528047210 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5413407808372038946, guid: ed9d61a9f6613044996e81235826dd03,
-    type: 3}
-  m_PrefabInstance: {fileID: 571025131}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1852907310 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2240609004489555648, guid: ed9d61a9f6613044996e81235826dd03,
-    type: 3}
-  m_PrefabInstance: {fileID: 571025131}
-  m_PrefabAsset: {fileID: 0}
+  hourHand: {fileID: 0}
+  minuteHand: {fileID: 0}
+  secondHand: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
