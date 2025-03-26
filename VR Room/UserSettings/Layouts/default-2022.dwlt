@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 42
+  controlID: 46
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 581
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 43
+  controlID: 47
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 44
+  controlID: 48
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -325,7 +325,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Course Library/Video
+    - Assets/TextMesh Pro/Resources/Fonts & Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -333,16 +333,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/_Course Library/Video
+  - Assets/TextMesh Pro/Resources/Fonts & Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Admin\Documents\GitHub\VR-Unity-Proejct\VR Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 319}
-    m_SelectedIDs: 66890000
-    m_LastClickedID: 35174
-    m_ExpandedIDs: 00000000cc870000ce870000d0870000d2870000d4870000d8870000da870000dc870000588900005a89000000ca9a3b
+    scrollPos: {x: 0, y: 483}
+    m_SelectedIDs: f0960000
+    m_LastClickedID: 38640
+    m_ExpandedIDs: 00000000a2830000a4830000a6830000a8830000aa830000ac830000b2830000b483000010840000e2860000ee96000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -370,7 +370,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 136}
     m_SelectedIDs: 46850000
     m_LastClickedID: 34118
-    m_ExpandedIDs: 00000000cc870000ce870000d0870000d2870000d4870000d6870000d8870000da870000dc870000
+    m_ExpandedIDs: 00000000a2830000a4830000a6830000a8830000aa830000ac830000ae830000b0830000b2830000b4830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -398,21 +398,21 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000e87a00001480000054830000
+    m_ExpandedInstanceIDs: c6230000e87a0000148000005483000060770000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Video_Unity-for-everyone
-      m_OriginalName: Video_Unity-for-everyone
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 46910
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
@@ -468,7 +468,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 1865
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -511,10 +511,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 49}
-      m_SelectedIDs: 2e61ffff
-      m_LastClickedID: -40658
-      m_ExpandedIDs: dce4ffffcae5ffffd8e5ffffe6e5fffff0e5ffff60e6ffff96e6ffffc2e6ffffe2e7ffff2afbffffba890000ee890000348a0000508a00005a8a0000828a0000b48a0000c28a0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: be44ffffbc47ffffbe47ffffe06bffff0487ffffcc87ffffb2f9ffff2afbffff62750000d4750000fe7500003a760000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -899,7 +899,7 @@ MonoBehaviour:
       sizeOverriden: 0
     m_OverlaysVisible: 1
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
-  m_Gizmos: 0
+  m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -908,9 +908,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -13.381884, y: -8.737458, z: -4.176079}
+    m_Target: {x: 0.48770726, y: -0.18427467, z: -2.3308969}
     speed: 2
-    m_Value: {x: -13.381884, y: -8.737458, z: -4.176079}
+    m_Value: {x: 0.48770726, y: -0.18427467, z: -2.3308969}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -956,13 +956,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17957239, y: 0.7804887, z: -0.2598586, w: -0.5398561}
+    m_Target: {x: 0.1330981, y: 0.86390626, z: -0.38291273, w: 0.29957145}
     speed: 2
-    m_Value: {x: -0.1795383, y: 0.78034055, z: -0.25980926, w: -0.53975356}
+    m_Value: {x: 0.13307054, y: 0.8637274, z: -0.38283345, w: 0.29950944}
   m_Size:
-    m_Target: 9.114825
+    m_Target: 1.5100793
     speed: 2
-    m_Value: 9.114825
+    m_Value: 1.5100793
   m_Ortho:
     m_Target: 0
     speed: 2
